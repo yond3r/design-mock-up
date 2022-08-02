@@ -27,7 +27,7 @@ Product.init(
         isDecimal: true,
       },
     },
-    inStock: {
+    stock: {
       type: DataTypes.INTEGER,
       allowNull: false,
       defaultvalue: 5,
