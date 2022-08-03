@@ -16,7 +16,7 @@
 
  ## Video
 
-
+https://user-images.githubusercontent.com/106720762/182509872-a8879d16-0dd4-43a0-a3c8-cc96238faf33.mp4
  
  ## Video Link
   - [The Drive Link w/ shopify mock up](https://drive.google.com/file/d/1kMEhOumPcBxiOQ73vGhKKZSrh43m_5c6/view?usp=sharing)
